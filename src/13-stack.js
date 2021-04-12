@@ -10,7 +10,7 @@
  * stack.pop(); // undefined
  *
  */
- class Stack {
+class Stack {
   constructor() {
     this.stack = [];
   }
