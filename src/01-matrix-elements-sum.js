@@ -30,4 +30,4 @@ function getMatrixElementsSum(matrix) {
   return total;
 }
 
-module.exports = getMatrixElementsSum;
+export default getMatrixElementsSum;
