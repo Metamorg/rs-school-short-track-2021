@@ -25,5 +25,4 @@ function getMatrixElementsSum(matrix) {
   }
   return arr.reduce((sum, cur) => (sum + cur), 0);
 }
-
 module.exports = getMatrixElementsSum;
