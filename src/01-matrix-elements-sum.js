@@ -14,7 +14,6 @@
  *
  * The result should be 9
  */
-
 function getMatrixElementsSum(matrix) {
   const arr = [];
   for (let x = 0; x < matrix[0].length; x++) {
